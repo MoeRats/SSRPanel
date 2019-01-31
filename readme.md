@@ -1,5 +1,4 @@
 # SSRPanel
-Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
 - [Demo](https://demo.ssrpanel.com)
 - [Telegram](https://t.me/ssrpanel)
